@@ -7,6 +7,8 @@
 这是 **某宝** 卖大几千的压枪源码，**不做任何数据读取以及侵入，这里采用外数据采集(IMG)**，
 **至今可以使用，无视任何更新**（新武器，以及新武器的压枪规则，需要自己调试，在data_config下）;
 
+[CF_PUBG](https://github.com/cherishsince/CF_USB) 另一个项目，采用相同方式，开源，无视更新
+
 
 
 这是一个 python 项目，大家可以使用 `package2.bat` `package.bat` 进行打包成 `.exe` 可执行文件，直接可运行。
